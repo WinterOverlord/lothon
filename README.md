@@ -1,0 +1,1 @@
+This is a programming language Lothon, written in Python. However, there are still some issues that our team members are working on. If there are any problems, please send them to me and report an error message. This programming language requires GCC. If your shutdown issue is related to the code, I can list you on the help list
